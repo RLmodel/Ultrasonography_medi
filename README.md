@@ -1,3 +1,6 @@
+![JBNU](https://github.com/user-attachments/assets/848624a4-1f89-4684-b6a8-58cd34f75269)
+
+
 # Ultrasonography_medi
 JNBU PXI based (Scope, Ard) Ultrasonography instrument project
 - Pulser Receiver 구현
