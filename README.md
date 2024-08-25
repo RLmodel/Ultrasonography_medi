@@ -1,6 +1,7 @@
 # Ultrasonography_medi
 JNBU PXI based (Scope, Ard) Ultrasonography instrument project
-
+- Pulser Receiver 구현
+- PXI platform / PXIe-5110 (Digitizer), PXIe-5413 (Waveform generator)
 
 ![20240823_141623](https://github.com/user-attachments/assets/74f735cf-7abd-4dab-830a-b2e29dabd406)
 ![20240823_141612](https://github.com/user-attachments/assets/7afbf269-de26-49e1-833d-569781d2a3e7)
